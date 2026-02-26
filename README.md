@@ -1,0 +1,1 @@
+# applicazione_rest_pica
